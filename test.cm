@@ -1,0 +1,24 @@
+/* this is my test file for compiler */
+
+
+void main()
+{
+	int i;
+	int c;
+
+
+    int b;
+    i = 5;
+    c = 5 + 3 * i;
+
+    output 4;
+    output c;
+
+    i = 10;
+
+    while(i > 6)
+    {
+    	i = i - 1;
+    }
+    output i;
+}
